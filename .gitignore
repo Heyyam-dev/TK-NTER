@@ -1,0 +1,5 @@
+target/
+node_modules/
+.env
+hello_rust/src/*.exe
+hello_rust/src/*.pdb
