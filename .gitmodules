@@ -1,0 +1,3 @@
+[submodule "Qwen-VL-Series-Finetune"]
+	path = Qwen-VL-Series-Finetune
+	url = https://github.com/Heyyam-dev/Qwen-VL-Series-Finetune.git
