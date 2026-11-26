@@ -1,0 +1,196 @@
+# =============================================================================
+# Operating System Files
+# =============================================================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# =============================================================================
+# IDE and Editor Files
+# =============================================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.vim/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+.sublime-workspace
+.sublime-project
+*.code-workspace
+.vscode-test
+.history/
+
+# =============================================================================
+# Python and Machine Learning Projects
+# =============================================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+*.cover
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# PyTorch and ML models
+*.pth
+*.pt
+*.ckpt
+*.checkpoint
+runs/
+logs/
+*.log
+experiments/
+checkpoints/
+models/cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =============================================================================
+# Rust Projects
+# =============================================================================
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# =============================================================================
+# Node.js and npm
+# =============================================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.eslintcache
+.node_repl_history
+*.tgz
+.yarn-integrity
+dist/
+out/
+
+# =============================================================================
+# Environment Variables and Secrets
+# =============================================================================
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.development.local
+.env.test.local
+credentials.json
+secrets.json
+*.pem
+*.key
+*.pfx
+
+# =============================================================================
+# Claude Code Local Settings
+# =============================================================================
+.claude/settings.local.json
+.claude/*.local.*
+.claude/cache/
+
+# =============================================================================
+# Build and Compile Output
+# =============================================================================
+*.o
+*.a
+*.lib
+*.dll
+*.exe
+*.out
+*.app
+*.com
+*.class
+*.jar
+
+# =============================================================================
+# OS Specific
+# =============================================================================
+.vagrant/
+.vagrant
+*.box
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =============================================================================
+# Local Development Files
+# =============================================================================
+local_settings.py
+instance/
+.webassets-cache
+.scrapy
+docs/_build/
+.env.test
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =============================================================================
+# Data and Large Files (optional - customize as needed)
+# =============================================================================
+*.zip
+*.tar.gz
+*.rar
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+*.sqlite3
+
+# =============================================================================
+# Temporary Files
+# =============================================================================
+*.tmp
+*.bak
+*.swp
+*~
+.tmp/
+temp/
